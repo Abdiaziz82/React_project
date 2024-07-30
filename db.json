@@ -1,0 +1,31 @@
+{
+  "post": [
+    {
+      "id": "1",
+      "title": "Pioneer Health Hospital",
+      "image": "https://cdn.pixabay.com/photo/2017/08/18/12/23/building-2654823_1280.jpg",
+      "description": "Effortlessly book your appointment at our nearby hospital. We're dedicated to providing top-quality, convenient care to meet all your health needs. Your well-being is our priority.",
+    "location":"Garissa Town, Along Kismayu Road"
+    },
+    {
+      "id": "2",
+      "title": "Unity Health Center",
+      "image": "https://cdn.pixabay.com/photo/2015/05/15/05/31/night-view-767852_1280.jpg",
+      "description": "Welcome! Easily schedule your appointment here. Our team is committed to delivering exceptional care and supporting your health journey every step of the way.",
+      "location": "Garissa Town,opposite xidig"
+    },
+    {
+      "id": "3",
+      "title": "Harmony Health Institute",
+      "image": "https://img.freepik.com/premium-photo/empty-office-buildings-financial-center_1112-6512.jpg?w=1060",
+      "description": "Welcome! Easily schedule your appointment here. Our team is committed to delivering exceptional care and supporting your health journey every step of the way.",
+      "location": "Wajir Town, next to hive centre  "
+    },
+    {
+      "id": "845a",
+      "title": "warsan hospital",
+      "image": "https://cdn.pixabay.com/photo/2024/02/16/06/26/dentist-8576790_1280.png",
+      "description": " Find nearby clinics and hospitals with ease, and book your appointments quickly and conveniently. We're here to make your healthcare journey smoother!"
+    }
+  ]
+}
