@@ -42,7 +42,21 @@ margin-top: 2rem;
     color: #000;
     
 }
+@media screen and (max-width:600px){
+.disc{
+font-size:0.9rem;
+padding-top: 2rem;
 
+}
+.search {
+  width:325px;
+  padding-bottom: 2rem;
+}
+.description{
+  font-size: 2px;
+  line-height: 2px;
+}
+}
 .description {
     font-size: 1.4rem;
     font-family: "Ramaraja", serif;

@@ -286,9 +286,9 @@ function Fetch() {
 
       {/* Display fetched posts */}
       {posts.map(post => (
-        <div key={post.id} className='"col-12 col-md-6 col-lg-4 mb-4   ' >
-          <div className=" max-w-md mx-auto rounded-md overflow-hidden shadow-md hover:shadow-lg">
-            <div className="relative">
+        <div key={post.id} className='  col-12 col-md-6 col-lg-4 mb-4   ' >
+          <div className="  max-w-md mx-auto rounded-md overflow-hidden shadow-md hover:shadow-lg">
+            <div className=" relative">
               <img className="w-full" src={post.image} alt="Product Image" />
               <div className="absolute top-0 right-0 bg-red-500 text-white px-2 py-1 m-2 rounded-md text-sm font-medium">
                 OPEN 
@@ -356,15 +356,15 @@ function Fetch() {
 
               <div className="flex items-center justify-between">
                 <button
-                  className='px-2 py-1 rounded text-white'
+                  className='reviews px-2 py-1 rounded text-white'
                   style={{ backgroundColor: '#005B48' }}
                   onClick={() => handleDelete(post.id)}
                 >
-                  Skip
+             Remove
                 </button>
                 <button
                   style={{ backgroundColor: '#713F12' }}
-                  className="bg-green-500 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded"
+                  className="hub bg-green-500 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded"
                 >
                   Book an appointment
                 </button>

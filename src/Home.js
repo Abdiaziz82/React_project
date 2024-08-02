@@ -17,7 +17,7 @@ function Home() {
                 
                     <h1 class="disc   font-bold text-4xl text-yellow-900 md:text-5xl lg:w-10/12">Discover <span style={{color:'#008D7D'}}>quality</span> care for your optimal health</h1>
                     <form action="" class="w-full mt-12">
-                        <div class="relative flex p-1 rounded-full bg-white border border-yellow-200 shadow-md md:p-2">
+                        <div class=" search relative flex p-1 rounded-full bg-white border border-yellow-200 shadow-md md:p-2">
                             <select class="hub hidden p-3 rounded-full bg-transparent md:block md:p-4" name="domain" id="domain">
                                 <option value="design">Pharmacy</option>
                                 <option value="development">General</option>

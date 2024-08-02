@@ -14,11 +14,11 @@ function Contact() {
         <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8 mt-8 animate-fadeIn">
           <div class="p-4 shadow-lg rounded-lg bg-green-100 hover:bg-green-200 transition-colors">
             <h3 class="reviews text-xl font-bold">Call Us</h3>
-            <p class="text-gray-700 mt-2">+1 123 456 7890</p>
+            <p class="text-gray-700 mt-2">+254797182814</p>
           </div>
           <div class="p-4 shadow-lg rounded-lg bg-green-100 hover:bg-green-200 transition-colors">
             <h3 class="reviews text-xl font-bold">Email Us</h3>
-            <p class="text-gray-700 mt-2">contact@wisedoctors.com</p>
+            <p class="text-gray-700 mt-2">abdiazizharedh@gmail.com</p>
           </div>
           <div class="p-4 shadow-lg rounded-lg bg-green-100 hover:bg-green-200 transition-colors">
             <h3 class=" reviews text-xl font-bold">Visit Us</h3>

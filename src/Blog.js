@@ -10,16 +10,14 @@ function Blog() {
       <div class="flex flex-wrap md:flex-no-wrap space-x-0 md:space-x-6 mb-16">
 
         <div class="mb-4 lg:mb-0  p-4 lg:p-0 w-full md:w-4/7 relative rounded block">
-          <img src="https://images.unsplash.com/photo-1427751840561-9852520f8ce8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=900&q=60" class="rounded-md object-cover w-full h-64"/>
-          <span class="text-green-700 text-sm hidden md:block mt-4"> Technology </span>
-          <h1 class="text-gray-800 text-4xl font-bold mt-2 mb-2 leading-tight">
-            Ignorant branched humanity led now marianne too.
+          <img src="https://cdn.pixabay.com/photo/2024/07/08/16/28/ai-generated-8881542_1280.jpg" class="rounded-md object-cover w-full h-64"/>
+          <span class="text-green-700 text-sm hidden md:block mt-4"> Healthcare</span>
+          <h1 class="reviews text-gray-800 text-4xl font-bold mt-2 mb-2 leading-tight">
+          Bridging the Gap: Enhancing Healthcare Accessibility and Empowering Providers.
           </h1>
-          <p class="text-gray-600 mb-4">
-            Necessary ye contented newspaper zealously breakfast he prevailed. Melancholy middletons yet understood
-            decisively boy law she. Answer him easily are its barton little. Oh no though mother be things simple
-            itself.
-            Oh be me, sure wise sons, no. Piqued ye of am spirit regret. Stimulated discretion impossible admiration in particular conviction up.
+          <p class="hub text-gray-600 mb-4">
+          In today's fast-paced world, ensuring that everyone has access to quality healthcare is more important than ever. Our platform is dedicated to bridging the gap between patients and healthcare services by connecting users with nearby hospitals and clinics. We understand the challenges people face in finding the right healthcare provider and are committed to making this process as seamless as possible.
+
           </p>
           <a href="#" class="inline-block px-6 py-3 mt-2 rounded-md bg-green-700 text-gray-100">
             Read more
@@ -30,11 +28,11 @@ function Blog() {
         <div class="w-full md:w-4/7">
 
           <div class="rounded w-full flex flex-col md:flex-row mb-10">
-            <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=900&q=60" class="block md:hidden lg:block rounded-md h-64 md:h-32 m-4 md:m-0" />
+            <img src="https://cdn.pixabay.com/photo/2012/04/12/13/22/syringe-30012_960_720.png" class="block md:hidden lg:block rounded-md h-64 md:h-32 m-4 md:m-0" />
             <div class="bg-white rounded px-4">
-              <span class="text-green-700 text-sm hidden md:block"> Gadgets </span>
-              <div class="md:mt-0 text-gray-800 font-semibold text-xl mb-2">
-                At every tiled on ye defer do. No attention suspected oh difficult.
+              <span class=" text-green-700 text-sm hidden md:block"> Provider Tools </span>
+              <div class="hub md:mt-0 text-gray-800 font-semibold text-xl mb-2">
+              Empowering healthcare providers with seamless management tools
               </div>
               <p class="block md:hidden p-2 pl-0 pt-1 text-sm text-gray-600">
                 Wonder matter now can estate esteem assure fat roused. Am performed on existence as discourse is. Pleasure friendly at marriage blessing or
@@ -43,12 +41,12 @@ function Blog() {
           </div>
 
 
-          <div class="rounded w-full flex flex-col md:flex-row mb-10">
-            <img src="https://images.unsplash.com/photo-1531297484001-80022131f5a1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=900&q=60" class="block md:hidden lg:block rounded-md h-64 md:h-32 m-4 md:m-0" />
+          <div class=" rounded w-full flex flex-col md:flex-row mb-10">
+            <img src="https://cdn.pixabay.com/photo/2016/03/31/20/37/client-1295901_960_720.png" class="block md:hidden lg:block rounded-md h-64 md:h-32 m-4 md:m-0" />
             <div class="bg-white rounded px-4">
-              <span class="text-green-700 text-sm hidden md:block"> Bitcoin </span>
-              <div class="md:mt-0 text-gray-800 font-semibold text-xl mb-2">
-                Fond his say old meet cold find come whom. The sir park sake bred.
+              <span class="text-green-700 text-sm hidden md:block"> Client Opportunities </span>
+              <div class="hub md:mt-0 text-gray-800 font-semibold text-xl mb-2">
+              Creating valuable client opportunities through innovative solutions.
               </div>
               <p class="block md:hidden p-2 pl-0 pt-1 text-sm text-gray-600">
                 Integer commodo, sapien ut vulputate viverra, Integer commodo
@@ -58,11 +56,11 @@ function Blog() {
           </div>
          
           <div class="rounded w-full flex flex-col md:flex-row mb-10">
-            <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=900&q=60" class="block md:hidden lg:block rounded-md h-64 md:h-32 m-4 md:m-0" />
+            <img src="https://cdn.pixabay.com/photo/2020/08/03/09/43/medical-5459654_960_720.png" class="block md:hidden lg:block rounded-md h-64 md:h-32 m-4 md:m-0" />
             <div class="bg-white rounded px-4">
-              <span class="text-green-700 text-sm hidden md:block"> Insights </span>
-              <div class="md:mt-0 text-gray-800 font-semibold text-xl mb-2">
-                Advice me cousin an spring of needed. Tell use paid law ever yet new.
+              <span class="text-green-700 text-sm hidden md:block"> Healthcare Access </span>
+              <div class="hub md:mt-0 text-gray-800 font-semibold text-xl mb-2">
+              Bridging the gap between patients and healthcare providers.
               </div>
               <p class="block md:hidden p-2 pl-0 pt-1 text-sm text-gray-600">
                 Meant to learn of vexed if style allow he there. Tiled man stand tears ten joy there terms any widen. 
@@ -71,10 +69,10 @@ function Blog() {
           </div>
       
           <div class="rounded w-full flex flex-col md:flex-row mb-10">
-            <img src="https://images.unsplash.com/photo-1489844097929-c8d5b91c456e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=900&q=60" class="block md:hidden lg:block rounded-md h-64 md:h-32 m-4 md:m-0" />
+            <img src="https://cdn.pixabay.com/photo/2020/08/03/09/43/medical-5459650_1280.png" class="block md:hidden lg:block rounded-md h-64 md:h-32 m-4 md:m-0" />
             <div class="bg-white rounded px-4">
               <span class="text-green-700 text-sm hidden md:block"> Cryptocurrency </span>
-              <div class="md:mt-0 text-gray-800 font-semibold text-xl mb-2">
+              <div class="hub md:mt-0 text-gray-800 font-semibold text-xl mb-2">
                 Advice me cousin an spring of needed. Tell use paid law ever yet new.
               </div>
               <p class="block md:hidden p-2 pl-0 pt-1 text-sm text-gray-600">
@@ -88,20 +86,19 @@ function Blog() {
       </div>
      
       <div class="flex mt-16 mb-4 px-4 lg:px-0 items-center justify-between">
-        <h2 class="font-bold text-3xl">Latest news</h2>
-        <a class="bg-gray-200 hover:bg-green-200 text-gray-800 px-3 py-1 rounded cursor-pointer">
+        <h2 class="serv font-bold text-3xl" style={{color:'#008D7D'}}>Latest news</h2>
+        <a class="hub bg-[#008D7D] text-gray-100 px-3 py-1 rounded cursor-pointer">
           View all
         </a>
       </div>
       <div class="block space-x-0 lg:flex lg:space-x-6">
 
         <div class="rounded w-full lg:w-1/2 lg:w-1/3 p-4 lg:p-0">
-          <img src="https://images.unsplash.com/photo-1526666923127-b2970f64b422?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=900&q=60" class="rounded" alt="technology" />
+          <img src="https://cdn.pixabay.com/photo/2016/11/08/05/29/surgery-1807541_960_720.jpg" class="rounded" alt="technology" />
           <div class="p-4 pl-0">
-            <h2 class="font-bold text-2xl text-gray-800">Put all speaking her delicate recurred possible.</h2>
-            <p class="text-gray-700 mt-2">
-              Set indulgence inquietude discretion insensible bed why announcing. Middleton fat two satisfied additions.
-              So continued he or commanded household smallness delivered. Door poor on do walk in half. Roof his head the what.
+            <h2 class="serv font-bold text-2xl text-gray-800">   Revolutionizing Healthcare.</h2>
+            <p class="hub text-gray-700 mt-2">
+            Recent advancements in healthcare technology are transforming patient care. AI-driven diagnostics, telemedicine, and wearable health devices are enhancing accuracy, accessibility, and management. These innovations are improving early detection, streamlining care processes, and offering personalized health insights, ultimately benefiting both patients and providers.
             </p>
 
             <a href="#" class="inline-block py-2 rounded text-green-900 mt-2 ml-auto"> Read more </a>
@@ -111,10 +108,9 @@ function Blog() {
         <div class="rounded w-full lg:w-1/2 lg:w-1/3 p-4 lg:p-0">
           <img src="https://images.unsplash.com/photo-1504384764586-bb4cdc1707b0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=900&q=60" class="rounded" alt="technology" />
           <div class="p-4 pl-0">
-            <h2 class="font-bold text-2xl text-gray-800">Is at purse tried jokes china ready decay an. </h2>
-            <p class="text-gray-700 mt-2">
-              Small its shy way had woody downs power. To denoting admitted speaking learning my exercise so in. 
-              Procured shutters mr it feelings. To or three offer house begin taken am at. 
+            <h2 class="serv font-bold text-2xl text-gray-800">  Innovative Digital Tools </h2>
+            <p class="hub text-gray-700 mt-2">
+            Cutting-edge digital tools are reshaping healthcare by improving patient outcomes and streamlining care. From advanced telehealth services to sophisticated health tracking apps, these innovations provide better data, facilitate remote consultations, and support personalized treatment plans, making healthcare more effective and accessible.
             </p>
 
             <a href="#" class="inline-block py-2 rounded text-green-900 mt-2 ml-auto"> Read more </a>
@@ -124,11 +120,9 @@ function Blog() {
         <div class="rounded w-full lg:w-1/2 lg:w-1/3 p-4 lg:p-0">
           <img src="https://images.unsplash.com/photo-1483058712412-4245e9b90334?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2100&q=80" class="rounded" alt="technology" />
           <div class="p-4 pl-0">
-            <h2 class="font-bold text-2xl text-gray-800">As dissuade cheerful overcame so of friendly he indulged unpacked.</h2>
-            <p class="text-gray-700 mt-2">
-              Alteration connection to so as collecting me. 
-              Difficult in delivered extensive at direction allowance. 
-              Alteration put use diminution can considered sentiments interested discretion.
+            <h2 class="serv font-bold text-2xl text-gray-800">Breakthroughs in Health Tech.</h2>
+            <p class="hub text-gray-700 mt-2">
+            Recent breakthroughs in health technology are dramatically shaping modern medicine. Innovations such as AI-powered diagnostic tools, remote patient monitoring, and advanced electronic health records are enhancing accuracy, reducing costs, and improving overall patient care and treatment efficiency.
             </p>
 
             <a href="#" class="inline-block py-2 rounded text-green-900 mt-2 ml-auto"> Read more </a>

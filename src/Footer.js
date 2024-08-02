@@ -40,7 +40,7 @@ function Footer() {
               <input
                 type="email"
                 id="UserEmail"
-                placeholder="john@rhcp.com"
+                placeholder="abdiazizharedh@gmail.com"
                 className="w-full border-none focus:border-transparent focus:ring-transparent sm:text-sm"
               />
 
