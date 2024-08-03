@@ -69,7 +69,7 @@ function SignUp() {
                       Name
                     </label>
                     <input
-                      placeholder="John Doe"
+                      placeholder="Abdiaziz Haredh"
                       required
                       type="text"
                       className=" flex-grow w-full h-12 px-4 mb-2 transition duration-200 bg-white border border-gray-300 rounded shadow-sm appearance-none focus:border-deep-purple-accent-400 focus:outline-none focus:shadow-outline"
@@ -85,7 +85,7 @@ function SignUp() {
                       E-mail
                     </label>
                     <input
-                      placeholder="john.doe@example.org"
+                      placeholder="abdiazizhared64@gmail.com"
                       required
                       type="text"
                       className="flex-grow w-full h-12 px-4 mb-2 transition duration-200 bg-white border border-gray-300 rounded shadow-sm appearance-none focus:border-deep-purple-accent-400 focus:outline-none focus:shadow-outline"

@@ -143,7 +143,7 @@
 
 
 import { useState, useEffect } from 'react';
-
+import { Link } from 'react-router-dom/cjs/react-router-dom.min';
 function Fetch() {
   const [posts, setPosts] = useState([]);
   const [newPost, setNewPost] = useState({
@@ -222,14 +222,14 @@ function Fetch() {
   return (
     <div className=' items-center row pt-56' style={{ backgroundColor: '#FFF7EF' }}>
       <h1 className='serv pl-20 pb-8 text-2xl'>
-        Welcome to HealthHub! Find nearby clinics and hospitals with ease, and book your appointments quickly and conveniently.
+        Welcome to <span style={{color:'#008D7D'}}>HealthHub!</span> Find nearby clinics and hospitals with ease, and book your appointments quickly and conveniently.
         <br />
         <span className='text-center pl-8'>We're here to make your healthcare journey smoother!</span>
       </h1>
 
       {/* Form for creating a new post */}
       <div className='  pl-20 pb-8 flex justify-around'>
-        <h2 className='hub text-xl font-bold mb-4'>Create a New Post</h2>
+        <h2 className='hub text-xl font-bold mb-4'>Post  a New Hospital</h2>
         <div className='mb-4'>
           <input
             type='text'
@@ -280,7 +280,7 @@ function Fetch() {
           onClick={handleCreate}
           className='hub bg-[#008D7D] hover:bg-blue-600 text-white font-bold px-8 rounded'
         >
-          Create Post
+        Add Hospital
         </button>
       </div>
 
@@ -362,12 +362,12 @@ function Fetch() {
                 >
              Remove
                 </button>
-                <button
+               <Link to="/book"> <button
                   style={{ backgroundColor: '#713F12' }}
                   className="hub bg-green-500 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded"
                 >
                   Book an appointment
-                </button>
+                </button></Link>
               </div>
             </div>
           </div>

@@ -8,17 +8,32 @@
       "location": "Garissa Town, Along Kismayu Road"
     },
     {
-      "id": "3",
-      "title": "Harmony Health Institute",
-      "image": "https://img.freepik.com/premium-photo/empty-office-buildings-financial-center_1112-6512.jpg?w=1060",
-      "description": "Welcome! Easily schedule your appointment here. Our team is committed to delivering exceptional care and supporting your health journey every step of the way.",
-      "location": "Wajir Town, next to hive centre  "
-    },
-    {
       "id": "845a",
       "title": "warsan hospital",
       "image": "https://cdn.pixabay.com/photo/2024/02/16/06/26/dentist-8576790_1280.png",
+      "location": "Wajir Town, next to hive centre  ",
       "description": " Find nearby clinics and hospitals with ease, and book your appointments quickly and conveniently. We're here to make your healthcare journey smoother!"
+    },
+    {
+      "id": "5aec",
+      "title": "Antalya hospital",
+      "image": "https://cdn.pixabay.com/photo/2016/11/06/10/35/hospital-1802679_1280.jpg",
+      "description": "Welcome! Easily schedule your appointment here. Our team is committed to delivering exceptional care and supporting your health journey every step of the way",
+      "location": "Garissa, opposite GHS"
+    },
+    {
+      "id": "66aa",
+      "title": "general hospital",
+      "image": "https://cdn.pixabay.com/photo/2021/02/03/23/09/hallway-5979689_960_720.jpg",
+      "description": "Welcome! Easily schedule your appointment here. Our team is committed to delivering exceptional care and supporting your health journey every step of the way",
+      "location": "garissa"
+    },
+    {
+      "id": "4861",
+      "title": "hospital clinic",
+      "image": "https://cdn.pixabay.com/photo/2020/10/30/17/48/hospital-5699287_1280.jpg",
+      "description": "Welcome! Easily schedule your appointment here. Our team is committed to delivering exceptional care and supporting your health journey every step of the way",
+      "location": "mandera,Main  Road"
     }
   ]
 }

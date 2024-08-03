@@ -39,6 +39,7 @@ import SignUp from './SignUp';
 import Footer from './Footer';
 import Contact from './Contact';
 import Blog from './Blog';
+import Book from './Book';
 
 function App() {
   return (
@@ -70,6 +71,9 @@ function App() {
       </Route>
       <Route exact path="/contact">
       <Contact />
+      </Route>
+      <Route exact path="/book">
+      <Book/>
       </Route>
       </Switch>
       

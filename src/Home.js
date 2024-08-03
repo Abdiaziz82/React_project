@@ -19,9 +19,9 @@ function Home() {
                     <form action="" class="w-full mt-12">
                         <div class=" search relative flex p-1 rounded-full bg-white border border-yellow-200 shadow-md md:p-2">
                             <select class="hub hidden p-3 rounded-full bg-transparent md:block md:p-4" name="domain" id="domain">
-                                <option value="design">Pharmacy</option>
-                                <option value="development">General</option>
-                                <option value="marketing">clinic</option>
+                                <option value="design">Garissa</option>
+                                <option value="development">Wajir</option>
+                                <option value="marketing">Mandera</option>
                             </select>
                             <input placeholder="Your favorite healthub" class="w-full p-4 rounded-full" type="text"/>
                             <button    type="button" title="Start buying" class="bg-[#008D7D] ml-auto py-3 px-6 rounded-full text-center transition bg-gradient-to-b  hover:to-red-300 active:from-yellow-400 focus:from-red-400 md:px-12">

@@ -34,7 +34,7 @@ function NavBar() {
               </div>
               <div className="navbrs hidden md:flex md:items-center md:gap-4">
                <NavLink to="/signup"> <button style={{backgroundColor:'#008D7D'}} className="btn text-base px-4 py-2 bg-[#008D7D] text-white rounded-lg shadow-md hover:bg-[#005BB9] focus:outline-none focus:ring-2 focus:ring-[#007FEC] dark:bg-[#00B1FD] dark:hover:bg-[#0085D1] dark:focus:ring-[#00B1FD]">Sign Up</button></NavLink>
-                <NavLink to="/fetch"><button className="btn text-base px-4 py-2 border border-[#007FEC] text-[#000000] rounded-lg shadow-md hover:bg-[#008D7D] hover:text-white focus:outline-none focus:ring-2 focus:ring-[#007FEC] dark:border-[#00B1FD] dark:text-[#00B1FD] dark:hover:bg-[#0085D1] dark:hover:text-white dark:focus:ring-[#00B1FD]">Login</button></NavLink>
+                <NavLink to="/fetch"><button className="btn text-base px-4 py-2 border border-[#007FEC] text-[#000000] rounded-lg shadow-md hover:bg-[#008D7D] hover:text-white focus:outline-none focus:ring-2 focus:ring-[#007FEC] dark:border-[#00B1FD] dark:text-[#00B1FD] dark:hover:bg-[#0085D1] dark:hover:text-white dark:focus:ring-[#00B1FD]">DiveIn</button></NavLink>
               </div>
             </div>
           </div>
