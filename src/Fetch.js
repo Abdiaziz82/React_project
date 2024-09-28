@@ -157,7 +157,7 @@ function Fetch() {
   useEffect(() => {
     const getPosts = async () => {
       try {
-        const response = await fetch("http://localhost:5000/post"); // Adjust endpoint if needed
+        const response = await fetch("http://localhost:3000/post"); // Adjust endpoint if needed
         if (!response.ok) {
           throw new Error('Network response was not ok');
         }
@@ -173,7 +173,7 @@ function Fetch() {
   // Handle creating a new post
   const handleCreate = async () => {
     try {
-      const response = await fetch('http://localhost:5000/post', {
+      const response = await fetch('http://localhost:3000/post', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json'
@@ -196,7 +196,7 @@ function Fetch() {
   // Handle deleting a post
   const handleDelete = async (id) => {
     try {
-      const response = await fetch(`http://localhost:5000/post/${id}`, {
+      const response = await fetch(`http://localhost:3000/post/${id}`, {
         method: 'DELETE',
       });
 
@@ -220,7 +220,7 @@ function Fetch() {
   };
 
   return (
-    <div className=' items-center row pt-56' style={{ backgroundColor: '#FFF7EF' }}>
+    <div className='  items-center row pt-56 ' style={{ backgroundColor: '#FFF7EF' }}>
       <h1 className='serv pl-20 pb-8 text-2xl'>
         Welcome to <span style={{color:'#008D7D'}}>HealthHub!</span> Find nearby clinics and hospitals with ease, and book your appointments quickly and conveniently.
         <br />
@@ -261,8 +261,6 @@ function Fetch() {
             className='border rounded-md p-2 w-full'
           />
         </div>
-
-
 
 
         <div className='mb-4'>
